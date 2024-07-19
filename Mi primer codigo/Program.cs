@@ -25,7 +25,7 @@ Console.WriteLine("El nombre completo es " + NombreCompleto);
 Console.WriteLine(pi);
 Console.WriteLine("Ingrese un numero: ");
 int numeroIngresado = int.Parse(Console.ReadLine());
-
+//asda
 var texto = Console.ReadLine();
 var casteo = Convert.ToInt32(texto); //Convierte un string a entero
 var casteo2 = int.Parse(texto); 
