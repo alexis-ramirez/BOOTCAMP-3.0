@@ -1,6 +1,4 @@
-﻿int val;
-bool valido;
-string resp;
+﻿string resp;
 do
 {
     Console.WriteLine("--------------------MENU------------------------");
