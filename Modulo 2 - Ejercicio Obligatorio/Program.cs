@@ -75,7 +75,7 @@ string resp;
 do
 {
     Console.Clear();
-    //Muestro las temperaturas mensuales para poder ir controlando los valores que calculó
+    //Muestro las temperaturas mensuales para poder ir controlando los valores que calculo
     string[] dias = { "L", "M", "M", "J", "V", "S", "D" };
     foreach (string di in dias)
     {
